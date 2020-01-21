@@ -4,6 +4,20 @@
 
 Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub! You should be able to use the hub for all assignments lecture workbooks in PHYS1600/2600. I recommend that you also install Python on your local machine following the instructions below.
 
+## Accessing Lecture Material
+
+Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both (the last option is best).
+
+Instructions for cloning a repo can be found here:
+
+https://help.github.com/articles/cloning-a-repository/
+
+You can also find more helpfull GitHub and Jupyter Hub information on the Brown CCV Jupyter hub Documentation:
+
+https://docs.ccv.brown.edu/jupyterhub/
+
+Later we will *fork* GitHub repo's and *sync upstream*, so that you can work on your own copy and maintain up-to-date material without loosing any of your own work.
+
 ## Installing Python Locally
 
 Python 3.6 will be used in PHYS 1600. If you plan on running code on your local machine, then you must install python. A number of packages are required In addition to the base python installation. In particular, we will make extensive use of the numpy and matplotlib packages included as part of the SciPy library. We also require a few tools to help us work efficiently using python, including the ipython shell, an interactive python interpreter; Jupyter notebooks, an interactive python environment tailored for scientific computing; and a text editor. 
@@ -26,14 +40,4 @@ A nice cross-platform option is Sublime text editor, find it here:  https://www.
 Notepad++ is another good and free option for windows, find it here: https://notepad-plus-plus.org/
 
 Atom for MacOS: https://atom.io/
-
-## Accessing Lecture Material
-
-Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both (the last option is best).
-
-Instructions for cloning a repo can be found here:
-
-https://help.github.com/articles/cloning-a-repository/
-
-Later we will *fork* GitHub repo's and *sync upstream*, so that you can work on your own copy and maintain up-to-date material without loosing any of your own work.
 
